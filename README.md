@@ -15,7 +15,7 @@ I'm a software engineer with 4 years of experience in the development of scalabl
 #### Databases & Search Engines
 
 - <img src="https://img.icons8.com/color/24/000000/mongodb.png"/> MongoDB | Atlas | Compass | Mongoose
-- <img src="https://img.icons8.com/color/24/000000/postgresql.png"/> PostgreSQL | PGAdmin | Sequelize
+- <img src="https://user-images.githubusercontent.com/12451867/221686275-771c3ae7-81a1-4275-9a93-751739e37436.png" width="24" height="24"> PostgreSQL | PGAdmin | Sequelize
 - <img src="https://img.icons8.com/color/24/000000/elasticsearch.png"/> ElasticSearch | OpenSearch
 
 #### Tools
@@ -23,13 +23,13 @@ I'm a software engineer with 4 years of experience in the development of scalabl
 - <img src="https://img.icons8.com/color/24/000000/docker.png"/> Docker | Docker Compose
 - <img src="https://img.icons8.com/color/24/000000/kubernetes.png"/> Kubernetes (basics+)
 - <img src="https://img.icons8.com/color/24/000000/terraform.png"/> Terraform
-- <img src="https://img.icons8.com/color/24/000000/postman-api.png"/> Postman
+- <img src="https://cdn.iconscout.com/icon/free/png-512/postman-3521648-2945092.png" width="24" height="24"/> Postman
 - <img src="https://img.icons8.com/dusk/24/000000/api-settings.png"/> OpenAPI
 - <img src="https://img.icons8.com/color/24/000000/git.png"/> Git
 - <img src="https://img.icons8.com/color/24/000000/github-2.png"/> GitHub Actions
-- <img src="https://img.icons8.com/color/24/000000/nodered.png"/> NodeRED
-- <img src="https://img.icons8.com/ios-filled/24/000000/socket-io.png"/> Socket.IO
-- <img src="https://img.icons8.com/color/24/000000/monstache.png"/> Monstache
+- <img src="https://nodered.jp/node-red-icon.png" width="24" height="24"/> NodeRED
+- <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/socket_io_logo_icon_144874.png" width="24" height="24"/> Socket.IO
+- <img src="https://img.icons8.com/color/24/000000/git.png"/> Monstache
 
 #### Cloud
 
