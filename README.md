@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm a software engineer with 4 years of experience in the development of scalable micro-services oriented systems, applying best practices and design patterns. I have experience performing strategic functions such as infrastructure design and development, software deployment and implementation, as well as creating unit tests and documentation.
+I'm a software engineer with over four years of experience in the development of scalable micro-services oriented systems, applying best practices and design patterns. I have experience performing strategic functions such as infrastructure design and development, software deployment and implementation, as well as creating unit tests and documentation.
 
 #### Languages & Frameworks
 
