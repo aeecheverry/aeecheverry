@@ -10,9 +10,6 @@
 *Building the security layer that AI agents need*
 *Starting with an open standard for secret protection*
 
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aeecheverry&theme=github-dark-blue&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=c9d1d9&dates=586069" width="60%" />
 
 </div>
 
