@@ -12,8 +12,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aeecheverry&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=c9d1d9&ring_color=F97316" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aeecheverry&theme=github-dark-blue&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=c9d1d9&dates=586069" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aeecheverry&theme=github-dark-blue&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=c9d1d9&dates=586069" width="60%" />
 
 </div>
 
