@@ -85,7 +85,7 @@ Source-agnostic, multi-tenant, policy-driven.
 
 > From a small town on Colombia's Caribbean coast. Got my first computer at 10 for being top student across local schools — that's when I fell in love with technology and never looked back.
 
-Earned a scholarship, studied Systems Engineering at **Universidad del Norte**, and have spent **8+ years** building scalable systems, leading engineering teams, and serving enterprise clients like **Oxxo**, **Transbank**, and **Enex** across Latin America.
+Earned a scholarship, studied Systems Engineering at **Universidad del Norte**, and have spent **8+ years** building scalable systems, leading engineering teams, and serving enterprise clients like **WOM**, **Entel**, **Oxxo**, **Transbank**, among others across Latin America.
 
 Now channeling everything I've learned into Braincol — because the AI agent ecosystem deserves security infrastructure built with the same rigor as the agents themselves.
 
